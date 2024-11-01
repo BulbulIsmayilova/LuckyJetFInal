@@ -20,7 +20,7 @@ function showHeader() {
                 </li>
                 <!--<li><a href="promokod.htm">Промокод</a></li>-->
                 <li><button onclick="downloadApk()">Скачать</button></li>
-                <li><a href="demo.htm">Демо</a></li>
+                <li><a target="_blank" href="https://1wayto.life/casino/play/1play_1play_luckyjet&p=96pv">Демо</a></li>
                 <li><a target="_blank" href="https://www.youtube.com/@gameesluckyjet">Youtube</a></li>
                 <!--<li><a target="_blank" href="https://t.me/AVIATOR_CLUB10X">Отзывы</a></li>-->
                 <li><a target="_blank" href="https://t.me/AVIATOR_CLUB10X">Сигналы</a></li>
